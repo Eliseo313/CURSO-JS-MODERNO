@@ -8,7 +8,7 @@ console.log(producto)
 //javascript es un lenguaje tipo dinamico, no se especifica tipo de dato
 producto = 20
 console.log(producto)
-
+console.log('esta es la 2da modificacion');
 
 
 //se pueden inicializar sin valor y asignarle algo despues
