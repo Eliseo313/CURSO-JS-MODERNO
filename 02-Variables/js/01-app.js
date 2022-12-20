@@ -22,3 +22,4 @@ var categoria = 'computadoras',
     marca = 'marca famosa',
     calificacion = 5;
 
+console.log('primera modificacion en una rama diferente')
